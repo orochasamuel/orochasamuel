@@ -2,6 +2,8 @@
 
 Meu nome é Samuel Oliveira, sou Empreendedor, Consultor Fiscal/Tributário e Desenvolvedor .NET. Em 2015 iniciei a criação de uma biblioteca open source que ajudasse outros desenvolvedores na geração dos arquivos governamentais, tais como, DIMOB, SINTEGRA, SPED, etc... E assim nasceu a biblioteca FiscalBr, conheça um pouco mais [clicando aqui](https://github.com/osamueloliveira/FiscalBr.NET).
 
+Vida longa e próspera 🖖
+
 <!--
 **osamueloliveira/osamueloliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
