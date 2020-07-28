@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oi, eu sou o Goku! Brincadeira 😜
+
+Meu nome é Samuel Rocha, sou Empreendedor, Consultor Fiscal/Tributário e Desenvolvedor .NET. Em 2015 tive a ideia de criar uma biblioteca open source que ajudasse outros desenvolvedores na geração dos arquivos governamentais, tais como, DIMOB, SINTEGRA, SPED, etc... E assim nasceu a biblioteca FiscalBr, conheça um pouco mais [clicando aqui](https://github.com/osamueloliveira/FiscalBr.NET).
 
 <!--
 **osamueloliveira/osamueloliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🤔
 -->
