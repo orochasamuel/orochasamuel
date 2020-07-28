@@ -1,3 +1,4 @@
+![GitHub followers](https://img.shields.io/github/followers/osamueloliveira?style=social)
 ### Oi, eu sou o Goku! Brincadeira 😜
 
 Meu nome é Samuel Oliveira, sou Empreendedor, Consultor Fiscal/Tributário e Desenvolvedor .NET. Em 2015 iniciei a criação de uma biblioteca open source que ajudasse outros desenvolvedores na geração dos arquivos governamentais, tais como, DIMOB, SINTEGRA, SPED, etc... E assim nasceu a biblioteca FiscalBr, conheça um pouco mais [clicando aqui](https://github.com/osamueloliveira/FiscalBr.NET).
