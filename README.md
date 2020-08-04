@@ -38,7 +38,6 @@ Vida longa e próspera 🖖
 
 <br />
 <br />
-<br />
 
 ---
 
