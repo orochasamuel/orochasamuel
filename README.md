@@ -29,7 +29,7 @@ Vida longa e próspera 🖖
 <img align="left" alt="Git" width="48px" src="images/tools/git.svg" />
 <img align="left" alt="GitHub" width="48px" src="images/tools/github.svg" />
 <img align="left" alt="PostgreSQL" width="48x" src="images/tools/postgreesql.svg" />
-<img align="left" alt="RavenDB" width="128px" src="images/tools/ravendb-logo.png" />
+<img align="left" alt="RavenDB" width="160px" src="images/tools/ravendb-logo.png" />
 <!--
 <img align="left" alt="LiteDB" width="84px" src="images/tools/litedb-logo.svg" />
 -->
