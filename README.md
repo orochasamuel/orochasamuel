@@ -16,7 +16,7 @@ Vida longa e próspera 🖖
 
 ---
 
-### Linguagens e Ferramentas :)
+### Kit de Desenvolvimento
 
 <p>
   <img align="left" alt="Visual Studio" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/vs-2019.svg" />
