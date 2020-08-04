@@ -9,8 +9,8 @@ Vida longa e próspera 🖖
 
 ### Encontre-me o/
 
-<img align="left" alt="samuelro.net" width="32px" src="images/social/domain.png" />
-<img align="left" alt="osamueloliveira | Instagram" width="32px" src="images/social/instagram.svg" />
+<img align="left" alt="samuelro.net" width="32px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/social/domain.png" />
+<img align="left" alt="osamueloliveira | Instagram" width="32px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/social/instagram.svg" />
 
 <br />
 
@@ -32,6 +32,9 @@ Vida longa e próspera 🖖
 <img align="left" alt="RavenDB" width="160px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/ravendb-logo.png" />
 <img align="left" alt="LiteDB" width="96px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/litedb-logo.svg" />
 
+<br />
+<br />
+<br />
 <br />
 <br />
 
