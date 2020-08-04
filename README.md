@@ -18,8 +18,10 @@ Vida longa e próspera 🖖
 
 ### Linguagens e Ferramentas :)
 
-<img align="left" alt="Visual Studio" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/vs-2019.svg" />
-<img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/vs-code-2019.svg" />
+<p>
+  <img align="left" alt="Visual Studio" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/vs-2019.svg" />
+  <img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/vs-code-2019.svg" />
+<p/>
 <img align="left" alt="Microsoft Azure" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/microsoft-azure.svg" />
 <img align="left" alt="C Sharp" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/c-sharp.svg" />
 <!--
@@ -31,9 +33,11 @@ Vida longa e próspera 🖖
 <img align="left" alt="Git" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/git.svg" />
 <img align="left" alt="GitHub" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/github.svg" />
 <img align="left" alt="PostgreSQL" width="48x" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/postgreesql.svg" />
-<img align="left" alt="RavenDB" width="160px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/ravendb-logo.png" />
+<img align="left" alt="RavenDB" width="128px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/ravendb-logo.png" />
 <img align="left" alt="LiteDB" width="96px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/litedb-logo.svg" />
 
+<br />
+<br />
 <br />
 
 ---
