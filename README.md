@@ -18,21 +18,19 @@ Vida longa e próspera 🖖
 
 ### Linguagens e Ferramentas :)
 
-<img align="left" alt="Visual Studio" width="48px" src="images/tools/vs-2019.svg" />
-<img align="left" alt="Visual Studio Code" width="48px" src="images/tools/vs-code-2019.svg" />
-<img align="left" alt="Microsoft Azure" width="48px" src="images/tools/microsoft-azure.svg" />
-<img align="left" alt="C Sharp" width="48px" src="images/tools/c-sharp.svg" />
-<img align="left" alt="HTML5" width="48px" src="images/tools/html-5.svg" />
-<img align="left" alt="CSS3" width="48px" src="images/tools/css-3.svg" />
-<img align="left" alt="JavaScript" width="48px" src="images/tools/javascript.svg" />
-<img align="left" alt="NodeJS" width="64px" src="images/tools/node-js.svg" />
-<img align="left" alt="Git" width="48px" src="images/tools/git.svg" />
-<img align="left" alt="GitHub" width="48px" src="images/tools/github.svg" />
-<img align="left" alt="PostgreSQL" width="48x" src="images/tools/postgreesql.svg" />
-<img align="left" alt="RavenDB" width="160px" src="images/tools/ravendb-logo.png" />
-<!--
-<img align="left" alt="LiteDB" width="84px" src="images/tools/litedb-logo.svg" />
--->
+<img align="left" alt="Visual Studio" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/vs-2019.svg" />
+<img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/vs-code-2019.svg" />
+<img align="left" alt="Microsoft Azure" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/microsoft-azure.svg" />
+<img align="left" alt="C Sharp" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/c-sharp.svg" />
+<img align="left" alt="HTML5" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/html-5.svg" />
+<img align="left" alt="CSS3" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/css-3.svg" />
+<img align="left" alt="JavaScript" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/javascript.svg" />
+<img align="left" alt="NodeJS" width="64px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/node-js.svg" />
+<img align="left" alt="Git" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/git.svg" />
+<img align="left" alt="GitHub" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/github.svg" />
+<img align="left" alt="PostgreSQL" width="48x" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/postgreesql.svg" />
+<img align="left" alt="RavenDB" width="160px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/ravendb-logo.png" />
+<img align="left" alt="LiteDB" width="96px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/litedb-logo.svg" />
 
 <br />
 <br />
