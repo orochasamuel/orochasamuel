@@ -9,7 +9,9 @@ Vida longa e próspera 🖖
 
 ### Encontre-me o/
 
-<img align="left" alt="samuelro.net" width="32px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/social/domain.png" />
+<a href="http://samuelro.net">
+  <img align="left" alt="samuelro.net" width="32px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/social/domain.png" />
+<a/>
 <img align="left" alt="osamueloliveira | Instagram" width="32px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/social/instagram.svg" />
 
 <br />
