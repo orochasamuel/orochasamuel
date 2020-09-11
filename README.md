@@ -12,18 +12,22 @@ Vida longa e próspera 🖖
 <a href="http://samuelro.net">
   <img align="left" alt="samuelro.net" width="32px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/social/domain.png" />
 <a/>
-<img align="left" alt="osamueloliveira | Instagram" width="32px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/social/instagram.svg" />
-
+<a href="https://www.instagram.com/osamueloliveiraoficial/">
+  <img align="left" alt="osamueloliveira | Instagram" width="32px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/social/instagram.svg" />
+<a/>
+  
 <br />
 
 ---
 
 ### Kit de Desenvolvimento
 
-<p>
+<a href="https://visualstudio.microsoft.com/pt-br/vs/">
   <img align="left" alt="Visual Studio" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/vs-2019.svg" />
+<a/>
+<a href="https://code.visualstudio.com/">
   <img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/vs-code-2019.svg" />
-<p/>
+<a/>
 <img align="left" alt="Microsoft Azure" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/microsoft-azure.svg" />
 <img align="left" alt="C Sharp" width="48px" src="https://raw.githubusercontent.com/osamueloliveira/osamueloliveira/master/images/tools/c-sharp.svg" />
 <!--
