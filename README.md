@@ -7,15 +7,6 @@ Meu nome é Samuel Rocha, sou Empreendedor, Consultor Fiscal/Tributário e Desen
 
 Vida longa e próspera 🖖
 
-### Encontre-me o/
-
-<a href="http://samuelro.net">
-  <img align="left" alt="samuelro.net" width="32px" src="https://raw.githubusercontent.com/orochasamuel/orochasamuel/master/images/social/domain.png" />
-<a/>
-<a href="https://www.instagram.com/orochasamuel/">
-  <img align="left" alt="orochasamuel | Instagram" width="32px" src="https://raw.githubusercontent.com/orochasamuel/orochasamuel/master/images/social/instagram.svg" />
-<a/>
-  
 <br />
 
 ---
