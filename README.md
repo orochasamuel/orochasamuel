@@ -7,8 +7,6 @@ Meu nome é Samuel Rocha, sou Empreendedor, Consultor Fiscal/Tributário e Desen
 
 Vida longa e próspera 🖖
 
-<br />
-
 ---
 
 ### Kit de Desenvolvimento
