@@ -19,6 +19,8 @@ Vida longa e próspera 🖖
   <img align="left" alt="Teams" width="48px" src="https://raw.githubusercontent.com/orochasamuel/orochasamuel/master/images/social/teams.svg" />
 <a/>
 
+<br />
+  
 ---
 
 ### Kit de Desenvolvimento
