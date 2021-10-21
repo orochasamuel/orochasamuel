@@ -7,7 +7,7 @@ Meu nome é Samuel Rocha, sou Empreendedor, Consultor Fiscal/Tributário e Desen
 
 Vida longa e próspera 🖖
 
-<br />
+### Contato
 
 <a href="mailto:samuelro.net@gmail.com">
   <img align="left" alt="Gmail" width="48px" src="https://raw.githubusercontent.com/orochasamuel/orochasamuel/master/images/social/gmail.svg" />
@@ -65,10 +65,10 @@ Vida longa e próspera 🖖
 
 ---
 
-<img align="left" alt="osamueloliveira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=orochasamuel&show_icons=true&hide_border=true" />
+<img align="left" alt="orochasamuel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=orochasamuel&show_icons=true&hide_border=true" />
 
 <!--
-**osamueloliveira/osamueloliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**orochasamuel/orochasamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
