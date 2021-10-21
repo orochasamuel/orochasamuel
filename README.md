@@ -7,6 +7,18 @@ Meu nome é Samuel Rocha, sou Empreendedor, Consultor Fiscal/Tributário e Desen
 
 Vida longa e próspera 🖖
 
+<br />
+
+<a href="mailto:samuelro.net@gmail.com">
+  <img align="left" alt="Gmail" width="48px" src="https://raw.githubusercontent.com/orochasamuel/orochasamuel/master/images/social/gmail.svg" />
+<a/>
+<a href="skype:samueltcskp?chat">
+  <img align="left" alt="Skype" width="48px" src="https://raw.githubusercontent.com/orochasamuel/orochasamuel/master/images/social/skype.svg" />
+<a/>
+<a href="https://teams.microsoft.com/l/chat/0/0?users=samuelro.net@gmail.com">
+  <img align="left" alt="Teams" width="48px" src="https://raw.githubusercontent.com/orochasamuel/orochasamuel/master/images/social/teams.svg" />
+<a/>
+
 ---
 
 ### Kit de Desenvolvimento
