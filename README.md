@@ -6,15 +6,6 @@
 Meu nome é Samuel Rocha, sou Empreendedor, Consultor Fiscal/Tributário e Desenvolvedor .NET. Em 2015 iniciei a criação de uma biblioteca open source que ajudasse outros desenvolvedores na geração dos arquivos fiscais, tais como, DIMOB, SINTEGRA, SPED, etc... E assim nasceu a biblioteca FiscalBr, conheça um pouco mais [clicando aqui](https://github.com/orochasamuel/FiscalBr.NET).
 
 Vida longa e próspera 🖖
-
-### Contato
-
-<a href="https://teams.microsoft.com/l/chat/0/0?users=samuelro.net@gmail.com">
-  <img align="left" alt="Teams" width="48px" src="https://raw.githubusercontent.com/orochasamuel/orochasamuel/master/images/social/teams.svg" />
-<a/>
-
-<br />
-<br />
   
 ---
 
